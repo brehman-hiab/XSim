@@ -1,6 +1,3 @@
-[submodule "Packages/XSim-Vehicle"]
-	path = Packages/XSim-Vehicle
-	url = https://github.com/brehman-hiab/XSim-Vehicle
 [submodule "Assets/XSim-Vehicle"]
 	path = Assets/XSim-Vehicle
 	url = https://github.com/brehman-hiab/XSim-Vehicle
