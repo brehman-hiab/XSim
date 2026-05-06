@@ -1,0 +1,21 @@
+[submodule "Packages/XSim-Vehicle"]
+	path = Packages/XSim-Vehicle
+	url = https://github.com/brehman-hiab/XSim-Vehicle
+[submodule "Assets/XSim-Vehicle"]
+	path = Assets/XSim-Vehicle
+	url = https://github.com/brehman-hiab/XSim-Vehicle
+[submodule "Assets/XSim-Crane"]
+	path = Assets/XSim-Crane
+	url = https://github.com/brehman-hiab/XSim-Crane
+[submodule "Assets/XSim-Enviroment"]
+	path = Assets/XSim-Enviroment
+	url = https://github.com/brehman-hiab/XSim-Enviroment
+[submodule "Assets/XSim-Communication"]
+	path = Assets/XSim-Communication
+	url = https://github.com/brehman-hiab/XSim-Communication.git
+[submodule "Assets/XSim-Patch"]
+	path = Assets/XSim-Patch
+	url = https://github.com/brehman-hiab/XSim-Patch.git
+[submodule "Assets/XSim-InputController"]
+	path = Assets/XSim-InputController
+	url = https://github.com/brehman-hiab/XSim-InputController.git
